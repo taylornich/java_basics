@@ -8,4 +8,5 @@ gradeAverage = "A";
 attendedSchool = true;
 
 //Question 1 Task 3
+
 console.log(studentName, studentAge, gradeAverage, attendedSchool)
